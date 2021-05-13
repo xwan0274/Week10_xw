@@ -1,0 +1,14 @@
+---
+title: "Week 10 Tutorial"
+author: "Xinrui WANG"
+date: "`r Sys.Date()`"
+output:
+  bookdown::html_document2
+---
+
+```{r library, message=FALSE}
+library(dplyr)
+library(ggplot2)
+```
+
+
